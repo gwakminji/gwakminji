@@ -2,9 +2,11 @@
 
 > Building vision-guided robotic systems that connect sensing, navigation, and embedded control.
 
+I explore how visual perception, sensor data, and control logic can be integrated into reliable autonomous platforms. My work focuses on turning computer-vision experiments into practical robotics prototypes.
+
 ## Technical Focus
 
-`Computer Vision` · `Autonomous Robotics` · `Embedded Systems` · `ROS` · `Sensor Integration`
+`Computer Vision` · `Autonomous Robotics` · `Embedded Systems` · `ROS` · `Sensor Integration` · `Navigation`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -16,13 +18,45 @@
 
 ## Selected Projects
 
-| Project | Overview | Stack |
-| --- | --- | --- |
-| [UAV Line Tracking](https://github.com/gwakminji/uav_line_tracking) | Visual navigation research for GPS-denied environments using LAB segmentation, line detection, and ArUco markers. | Python · OpenCV · ArUco |
-| [MiniCar Simulation](https://github.com/gwakminji/minicar_sim) | Autonomous driving simulation for a miniature vehicle platform. | Robotics · Simulation |
-| [USV Workspace](https://github.com/gwakminji/6can_usv_ws) | Development workspace for an unmanned surface vehicle system. | ROS · Autonomous Systems |
-| Arduino Scooter Alcohol Lock | Pre-ride alcohol detection and physical lock control system. Recipient of an Encouragement Award at the 9th INU Maker Competition. | Arduino · Sensors · Motor Control |
+### [UAV Line Tracking](https://github.com/gwakminji/uav_line_tracking)
+
+A visual navigation experiment for GPS-denied environments. The system uses LAB color segmentation, Canny edge detection, Hough line extraction, and ArUco markers to estimate line position and establish visual reference points.
+
+`Python` `OpenCV` `LAB Color Space` `ArUco` `Visual Navigation`
+
+### [MiniCar Simulation](https://github.com/gwakminji/minicar_sim)
+
+A simulation project for studying autonomous driving behavior on a miniature vehicle platform, with an emphasis on translating perception results into vehicle-level control.
+
+`Robotics` `Simulation` `Autonomous Driving`
+
+### [USV Workspace](https://github.com/gwakminji/6can_usv_ws)
+
+A ROS-based workspace for unmanned surface vehicle development, covering the software foundation required for communicating components and building autonomous marine systems.
+
+`ROS` `USV` `Autonomous Systems`
+
+### Arduino Scooter Alcohol Lock
+
+A pre-ride safety device that measures alcohol concentration with an MQ-3 sensor and controls a physical scooter lock through a stepper motor. This project received an **Encouragement Award** at the 9th INU Maker Competition.
+
+`Arduino` `MQ-3 Sensor` `Stepper Motor` `TFT Display`
+
+## What I Work With
+
+| Area | Technologies |
+| --- | --- |
+| Vision & Perception | OpenCV, image preprocessing, line detection, ArUco markers |
+| Robotics | ROS, autonomous navigation concepts, simulation |
+| Embedded Control | Arduino, sensors, motors, serial communication |
+| Development | Python, C/C++, Git, GitHub |
 
 ## Current Direction
 
-Exploring robust perception pipelines and practical autonomy for mobile robotic platforms.
+- Designing robust perception pipelines for mobile robots
+- Combining camera-based localization with sensor-driven control
+- Building practical prototypes for autonomous land, air, and surface platforms
+
+---
+
+Open to learning through experiments, implementation, and collaborative robotics projects.
