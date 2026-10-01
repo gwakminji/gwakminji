@@ -58,11 +58,15 @@ A team project that combines OBD-II vehicle data, brake signals, and visual and 
 
 [Project Overview](https://github.com/brake-down) · [Compute & Integration](https://github.com/brake-down/Raspberry5_brake-down) · [UI Resources](https://github.com/brake-down/UI_resource)
 
-### Arduino Scooter Alcohol Lock
+### [Arduino Scooter Alcohol Lock](https://github.com/gwakminji/arduino-scooter-alcohol-lock)
 
-A pre-ride safety device that measures alcohol concentration with an MQ-3 sensor and controls a physical scooter lock through a stepper motor. This project received an **Encouragement Award** at the 9th INU Maker Competition.
+A pre-ride safety device that measures alcohol concentration with an MQ-3 sensor and controls a physical scooter lock through a stepper motor.
+
+**Award:** 장려상 (Encouragement Award), 2024년 제9회 INU Maker 경진대회
 
 `Arduino` `MQ-3 Sensor` `Stepper Motor` `TFT Display`
+
+[Project Overview & Demo](https://github.com/gwakminji/arduino-scooter-alcohol-lock)
 
 ## What I Work With
 
