@@ -29,6 +29,24 @@ A team project that connects radar-based fall detection, thermal verification, a
 
 [Project Overview & Demo](https://github.com/ARDA-2026) · [Jetson Integration](https://github.com/ARDA-2026/jetson-detector-bridge) · [Drift Prediction & Web Monitoring](https://github.com/ARDA-2026/arda-algo_general)
 
+### [USV Workspace](https://github.com/gwakminji/6can_usv_ws)
+
+A ROS-based workspace for unmanned surface vehicle development, covering the software foundation required for communicating components and building autonomous marine systems.
+
+`ROS` `USV` `Autonomous Systems`
+
+### [MiniCar Simulation](https://github.com/gwakminji/minicar_sim)
+
+A simulation project for studying autonomous driving behavior on a miniature vehicle platform, with an emphasis on translating perception results into vehicle-level control.
+
+`Robotics` `Simulation` `Autonomous Driving`
+
+### [UAV Line Tracking](https://github.com/gwakminji/uav_line_tracking)
+
+A visual navigation experiment for GPS-denied environments. The system uses LAB color segmentation, Canny edge detection, Hough line extraction, and ArUco markers to estimate line position and establish visual reference points.
+
+`Python` `OpenCV` `LAB Color Space` `ArUco` `Visual Navigation`
+
 ### [BRAKEDOWN · Pedal Misapplication Detection & Warning](https://github.com/brake-down)
 
 A team project that combines OBD-II vehicle data, brake signals, and visual and audio analysis to detect pedal misapplication and warn the driver. Built around Raspberry Pi and RP2040-based sensor integration.
@@ -39,24 +57,6 @@ A team project that combines OBD-II vehicle data, brake signals, and visual and 
 `Raspberry Pi` `OpenCV` `TensorFlow Lite` `OBD-II` `CAN` `Sensor Fusion`
 
 [Project Overview](https://github.com/brake-down) · [Compute & Integration](https://github.com/brake-down/Raspberry5_brake-down) · [UI Resources](https://github.com/brake-down/UI_resource)
-
-### [UAV Line Tracking](https://github.com/gwakminji/uav_line_tracking)
-
-A visual navigation experiment for GPS-denied environments. The system uses LAB color segmentation, Canny edge detection, Hough line extraction, and ArUco markers to estimate line position and establish visual reference points.
-
-`Python` `OpenCV` `LAB Color Space` `ArUco` `Visual Navigation`
-
-### [MiniCar Simulation](https://github.com/gwakminji/minicar_sim)
-
-A simulation project for studying autonomous driving behavior on a miniature vehicle platform, with an emphasis on translating perception results into vehicle-level control.
-
-`Robotics` `Simulation` `Autonomous Driving`
-
-### [USV Workspace](https://github.com/gwakminji/6can_usv_ws)
-
-A ROS-based workspace for unmanned surface vehicle development, covering the software foundation required for communicating components and building autonomous marine systems.
-
-`ROS` `USV` `Autonomous Systems`
 
 ### Arduino Scooter Alcohol Lock
 
