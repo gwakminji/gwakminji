@@ -18,6 +18,17 @@ I explore how visual perception, sensor data, and control logic can be integrate
 
 ## Selected Projects
 
+### [ARDA · River Drift Prediction & Search Assistance](https://github.com/ARDA-2026)
+
+A team project that connects radar-based fall detection, thermal verification, and drift prediction to provide priority search areas for river incidents, including nighttime situations without witnesses. Sensor processing on Jetson is linked to a web monitoring system and drone control.
+
+**Role:** Team Lead · Project Coordination · System Integration · Network Configuration  
+**Award:** Encouragement Award, 제22회(2026년) 창의적 종합설계 경진대회
+
+`Jetson Orin Nano` `3D Radar` `Thermal Imaging` `Sensor Integration` `FastAPI` `NumPy`
+
+[Project Overview & Demo](https://github.com/ARDA-2026) · [Jetson Integration](https://github.com/ARDA-2026/jetson-detector-bridge) · [Drift Prediction & Web Monitoring](https://github.com/ARDA-2026/arda-algo_general)
+
 ### [UAV Line Tracking](https://github.com/gwakminji/uav_line_tracking)
 
 A visual navigation experiment for GPS-denied environments. The system uses LAB color segmentation, Canny edge detection, Hough line extraction, and ArUco markers to estimate line position and establish visual reference points.
