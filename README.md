@@ -29,6 +29,17 @@ A team project that connects radar-based fall detection, thermal verification, a
 
 [Project Overview & Demo](https://github.com/ARDA-2026) · [Jetson Integration](https://github.com/ARDA-2026/jetson-detector-bridge) · [Drift Prediction & Web Monitoring](https://github.com/ARDA-2026/arda-algo_general)
 
+### [BRAKEDOWN · Pedal Misapplication Detection & Warning](https://github.com/brake-down)
+
+A team project that combines OBD-II vehicle data, brake signals, and visual and audio analysis to detect pedal misapplication and warn the driver. Built around Raspberry Pi and RP2040-based sensor integration.
+
+**Role:** Computer Vision · UI Design  
+**Competition:** 제23회 임베디드SW경진대회 · 자유공모 부문
+
+`Raspberry Pi` `OpenCV` `TensorFlow Lite` `OBD-II` `CAN` `Sensor Fusion`
+
+[Project Overview](https://github.com/brake-down) · [Compute & Integration](https://github.com/brake-down/Raspberry5_brake-down) · [UI Resources](https://github.com/brake-down/UI_resource)
+
 ### [UAV Line Tracking](https://github.com/gwakminji/uav_line_tracking)
 
 A visual navigation experiment for GPS-denied environments. The system uses LAB color segmentation, Canny edge detection, Hough line extraction, and ArUco markers to estimate line position and establish visual reference points.
