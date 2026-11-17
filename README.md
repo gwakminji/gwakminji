@@ -41,13 +41,9 @@ A team entry for Incheon National University’s 2026 Vibe Coding Competition. E
 
 `JavaScript` `Three.js` `WebGL`
 
-[Source Code](https://github.com/ehduq0221/words-to-world) · [Play the Demo](https://words-to-world-campus.xoxoi4023.chatgpt.site/) · [Festival Studio](https://words-to-world-campus.xoxoi4023.chatgpt.site/festival.html)
-
 ### [Capstone Design · In Progress](https://github.com/SSangWonPark/Capstone_Design)
 
 Team capstone project at Incheon National University. The repository contains team meeting notes and design documentation.
-
-[Team Repository](https://github.com/SSangWonPark/Capstone_Design) · [Meeting Notes](https://github.com/SSangWonPark/Capstone_Design/tree/main/docs/meetings)
 
 ### [MiniCar Simulation](https://github.com/gwakminji/minicar_sim)
 
