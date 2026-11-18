@@ -18,7 +18,9 @@ I explore how visual perception, sensor data, and control logic can be integrate
 
 ## Selected Projects
 
-### [ARDA · River Drift Prediction & Search Assistance](https://github.com/ARDA-2026)
+### Robotics Systems & Integration
+
+#### [ARDA · River Drift Prediction & Search Assistance](https://github.com/ARDA-2026)
 
 A team project that connects radar-based fall detection, thermal verification, and drift prediction to provide priority search areas for river incidents, including nighttime situations without witnesses. Sensor processing on Jetson is linked to a web monitoring system and drone control.
 
@@ -29,35 +31,29 @@ A team project that connects radar-based fall detection, thermal verification, a
 
 [Project Overview & Demo](https://github.com/ARDA-2026) · [Jetson Integration](https://github.com/ARDA-2026/jetson-detector-bridge) · [Drift Prediction & Web Monitoring](https://github.com/ARDA-2026/arda-algo_general)
 
-### [USV Workspace](https://github.com/gwakminji/6can_usv_ws)
+#### [USV Workspace](https://github.com/gwakminji/6can_usv_ws)
 
 A ROS-based workspace for unmanned surface vehicle development, covering the software foundation required for communicating components and building autonomous marine systems.
 
 `ROS` `USV` `Autonomous Systems`
 
-### [Words to World · Vibe Coding Competition](https://github.com/ehduq0221/words-to-world)
+### Perception, Navigation & Simulation
 
-A team entry for Incheon National University’s 2026 Vibe Coding Competition. Explore the Songdo campus in 3D, make campus management decisions, and plan and preview a campus festival.
-
-`JavaScript` `Three.js` `WebGL`
-
-### [Capstone Design · In Progress](https://github.com/SSangWonPark/Capstone_Design)
-
-Team capstone project at Incheon National University. The repository contains team meeting notes and design documentation.
-
-### [MiniCar Simulation](https://github.com/gwakminji/minicar_sim)
+#### [MiniCar Simulation](https://github.com/gwakminji/minicar_sim)
 
 A simulation project for studying autonomous driving behavior on a miniature vehicle platform, with an emphasis on translating perception results into vehicle-level control.
 
 `Robotics` `Simulation` `Autonomous Driving`
 
-### [UAV Line Tracking](https://github.com/gwakminji/uav_line_tracking)
+#### [UAV Line Tracking](https://github.com/gwakminji/uav_line_tracking)
 
 A visual navigation experiment for GPS-denied environments. The system uses LAB color segmentation, Canny edge detection, Hough line extraction, and ArUco markers to estimate line position and establish visual reference points.
 
 `Python` `OpenCV` `LAB Color Space` `ArUco` `Visual Navigation`
 
-### [BRAKEDOWN · Pedal Misapplication Detection & Warning](https://github.com/brake-down)
+### Embedded & Vehicle Safety
+
+#### [BRAKEDOWN · Pedal Misapplication Detection & Warning](https://github.com/brake-down)
 
 A team project that combines OBD-II vehicle data, brake signals, and visual and audio analysis to detect pedal misapplication and warn the driver. Built around Raspberry Pi and RP2040-based sensor integration.
 
@@ -68,7 +64,7 @@ A team project that combines OBD-II vehicle data, brake signals, and visual and 
 
 [Project Overview](https://github.com/brake-down) · [Compute & Integration](https://github.com/brake-down/Raspberry5_brake-down) · [UI Resources](https://github.com/brake-down/UI_resource)
 
-### [Arduino Scooter Alcohol Lock](https://github.com/gwakminji/arduino-scooter-alcohol-lock)
+#### [Arduino Scooter Alcohol Lock](https://github.com/gwakminji/arduino-scooter-alcohol-lock)
 
 A pre-ride safety device that measures alcohol concentration with an MQ-3 sensor and controls a physical scooter lock through a stepper motor.
 
@@ -77,6 +73,14 @@ A pre-ride safety device that measures alcohol concentration with an MQ-3 sensor
 `Arduino` `MQ-3 Sensor` `Stepper Motor` `TFT Display`
 
 [Project Overview & Demo](https://github.com/gwakminji/arduino-scooter-alcohol-lock)
+
+### Web & 3D Applications
+
+#### [Words to World · Vibe Coding Competition](https://github.com/ehduq0221/words-to-world)
+
+### Capstone Design
+
+#### [Capstone Design · In Progress](https://github.com/SSangWonPark/Capstone_Design)
 
 ## What I Work With
 
